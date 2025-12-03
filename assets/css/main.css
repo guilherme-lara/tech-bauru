@@ -1177,16 +1177,16 @@ section,
   border-bottom: 3px solid #d7de0d;
 }
 
-.services .service-item.item-cyan .icon {
+.services .service-item.item-yellow .icon {
   color: #d7de0d;
   background: rgba(13, 202, 240, 0.1);
 }
 
-.services .service-item.item-cyan .read-more {
+.services .service-item.item-yellow .read-more {
   color: #d7de0d;
 }
 
-.services .service-item.item-cyan:hover {
+.services .service-item.item-yellow:hover {
   background: #d7de0d;
 }
 
